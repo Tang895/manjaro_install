@@ -10,3 +10,4 @@ sudo bash ./install.sh
 - [ ] deepin wine程序解决
 - [ ] 主题修改
 - [ ] 插件修改
+- [ ] 动画效果修改
